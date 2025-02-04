@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jakaria-if
+- 👋 Hi, I’m @jakaria
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on Software
